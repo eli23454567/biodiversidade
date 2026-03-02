@@ -1,0 +1,47 @@
+header{
+	background-image: url(../imagem/ei.jpg);
+	height: 500px;
+	width: 100%;
+	background-attachment: ;
+	background-size: cover;
+	background-position: center;
+	background-repeat: ;
+}
+
+header nav ul{
+	display: inline;
+}
+
+nav a{
+	text-decoration: none;
+	border: 1px solid white;
+	padding: 8px 15px;
+	color: white;
+	margin: 0 8px;
+}
+
+nav li{
+	list-style-type: none;
+}
+
+header nav ul{
+	text-align: right;
+}
+
+header h1{
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+	margin-top: 120px;
+	font-size: 40px;
+}
+
+header p{
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+	background: rgba(8, .8, 8, .5);
+	margin: 0 375px;
+	padding: 30px 15px;
+	border-bottom: 5px solid yellow;
+}
